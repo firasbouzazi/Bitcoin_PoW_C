@@ -7,9 +7,9 @@ This project is a prototype implementation of the Bitcoin Proof-of-Work algorith
 ## Requirements
 C compiler (e.g. GCC)
 ## Installation
-1-Clone the repository to your local machine.
-2-Navigate to the project directory.
-3-Compile the source code using the C compiler.
+- Clone the repository to your local machine.
+- Navigate to the project directory.
+- Compile the source code using the C compiler.
 ## Usage
 The program will start mining for a valid hash. Once a valid hash is found, it will be displayed on the screen along with the corresponding block header data.
 ## Credits
